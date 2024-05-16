@@ -1,0 +1,108 @@
+Employee ID,Full Name,Hire Date,Year,Month,Job ID,Job Title,Salary,Department ID,Department Name,Country Name,City,Gender
+100,Steven King,17-Jun-03,2003,6,AD_PRES,President,24000,90,Executive,United States of America,Seattle,Female
+101,Neena Kochhar,21-Sep-05,2005,9,AD_VP,Administration Vice President,17000,90,Executive,United States of America,Seattle,Female
+102,Lex De Haan,13-Jan-01,2001,1,AD_VP,Administration Vice President,17000,90,Executive,United States of America,Seattle,Male
+200,Jennifer Whalen,17-Sep-03,2003,9,AD_ASST,Administration Assistant,4400,10,Administration,United States of America,Seattle,Male
+108,Nancy Greenberg,17-Aug-02,2002,8,FI_MGR,Finance Manager,12008,100,Finance,United States of America,Seattle,Female
+109,Daniel Faviet,16-Aug-02,2002,8,FI_ACCOUNT,Accountant,9000,100,Finance,United States of America,Seattle,Male
+110,John Chen,28-Sep-05,2005,9,FI_ACCOUNT,Accountant,8200,100,Finance,United States of America,Seattle,Male
+111,Ismael Sciarra,30-Sep-05,2005,9,FI_ACCOUNT,Accountant,7700,100,Finance,United States of America,Seattle,Female
+112,Jose Manuel Urman,7-Mar-06,2006,3,FI_ACCOUNT,Accountant,7800,100,Finance,United States of America,Seattle,Female
+113,Luis Popp,7-Dec-07,2007,12,FI_ACCOUNT,Accountant,6900,100,Finance,United States of America,Seattle,Female
+205,Shelley Higgins,7-Jun-02,2002,6,AC_MGR,Accounting Manager,12008,110,Accounting,United States of America,Seattle,Male
+206,William Gietz,7-Jun-02,2002,6,AC_ACCOUNT,Public Accountant,8300,110,Accounting,United States of America,Seattle,Male
+145,John Russell,1-Oct-04,2004,10,SA_MAN,Sales Manager,14000,80,Sales,United Kingdom,Oxford,Male
+146,Karen Partners,5-Jan-05,2005,1,SA_MAN,Sales Manager,13500,80,Sales,United Kingdom,Oxford,Male
+147,Alberto Errazuriz,10-Mar-05,2005,3,SA_MAN,Sales Manager,12000,80,Sales,United Kingdom,Oxford,Male
+148,Gerald Cambrault,15-Oct-07,2007,10,SA_MAN,Sales Manager,11000,80,Sales,United Kingdom,Oxford,Male
+149,Eleni Zlotkey,29-Jan-08,2008,1,SA_MAN,Sales Manager,10500,80,Sales,United Kingdom,Oxford,Female
+150,Peter Tucker,30-Jan-05,2005,1,SA_REP,Sales Representative,10000,80,Sales,United Kingdom,Oxford,Female
+151,David Bernstein,24-Mar-05,2005,3,SA_REP,Sales Representative,9500,80,Sales,United Kingdom,Oxford,Female
+152,Peter Hall,20-Aug-05,2005,8,SA_REP,Sales Representative,9000,80,Sales,United Kingdom,Oxford,Female
+153,Christopher Olsen,30-Mar-06,2006,3,SA_REP,Sales Representative,8000,80,Sales,United Kingdom,Oxford,Female
+154,Nanette Cambrault,9-Dec-06,2006,12,SA_REP,Sales Representative,7500,80,Sales,United Kingdom,Oxford,Male
+155,Oliver Tuvault,23-Nov-07,2007,11,SA_REP,Sales Representative,7000,80,Sales,United Kingdom,Oxford,Male
+156,Janette King,30-Jan-04,2004,1,SA_REP,Sales Representative,10000,80,Sales,United Kingdom,Oxford,Female
+157,Patrick Sully,4-Mar-04,2004,3,SA_REP,Sales Representative,9500,80,Sales,United Kingdom,Oxford,Male
+158,Allan McEwen,1-Aug-04,2004,8,SA_REP,Sales Representative,9000,80,Sales,United Kingdom,Oxford,Female
+159,Lindsey Smith,10-Mar-05,2005,3,SA_REP,Sales Representative,8000,80,Sales,United Kingdom,Oxford,Female
+160,Louise Doran,15-Dec-05,2005,12,SA_REP,Sales Representative,7500,80,Sales,United Kingdom,Oxford,Male
+161,Sarath Sewall,3-Nov-06,2006,11,SA_REP,Sales Representative,7000,80,Sales,United Kingdom,Oxford,Female
+162,Clara Vishney,11-Nov-05,2005,11,SA_REP,Sales Representative,10500,80,Sales,United Kingdom,Oxford,Female
+163,Danielle Greene,19-Mar-07,2007,3,SA_REP,Sales Representative,9500,80,Sales,United Kingdom,Oxford,Female
+164,Mattea Marvins,24-Jan-08,2008,1,SA_REP,Sales Representative,7200,80,Sales,United Kingdom,Oxford,Female
+165,David Lee,23-Feb-08,2008,2,SA_REP,Sales Representative,6800,80,Sales,United Kingdom,Oxford,Female
+166,Sundar Ande,24-Mar-08,2008,3,SA_REP,Sales Representative,6400,80,Sales,United Kingdom,Oxford,Male
+167,Amit Banda,21-Apr-08,2008,4,SA_REP,Sales Representative,6200,80,Sales,United Kingdom,Oxford,Male
+168,Lisa Ozer,11-Mar-05,2005,3,SA_REP,Sales Representative,11500,80,Sales,United Kingdom,Oxford,Female
+169,Harrison Bloom,23-Mar-06,2006,3,SA_REP,Sales Representative,10000,80,Sales,United Kingdom,Oxford,Male
+170,Tayler Fox,24-Jan-06,2006,1,SA_REP,Sales Representative,9600,80,Sales,United Kingdom,Oxford,Male
+171,William Smith,23-Feb-07,2007,2,SA_REP,Sales Representative,7400,80,Sales,United Kingdom,Oxford,Female
+172,Elizabeth Bates,24-Mar-07,2007,3,SA_REP,Sales Representative,7300,80,Sales,United Kingdom,Oxford,Male
+173,Sundita Kumar,21-Apr-08,2008,4,SA_REP,Sales Representative,6100,80,Sales,United Kingdom,Oxford,Male
+174,Ellen Abel,11-May-04,2004,5,SA_REP,Sales Representative,11000,80,Sales,United Kingdom,Oxford,Female
+175,Alyssa Hutton,19-Mar-05,2005,3,SA_REP,Sales Representative,8800,80,Sales,United Kingdom,Oxford,Male
+176,Jonathon Taylor,24-Mar-06,2006,3,SA_REP,Sales Representative,8600,80,Sales,United Kingdom,Oxford,Female
+177,Jack Livingston,23-Apr-06,2006,4,SA_REP,Sales Representative,8400,80,Sales,United Kingdom,Oxford,Male
+178,Kimberely Grant,24-May-07,2007,5,SA_REP,Sales Representative,7000,,,,,Male
+179,Charles Johnson,4-Jan-08,2008,1,SA_REP,Sales Representative,6200,80,Sales,United Kingdom,Oxford,Female
+114,Den Raphaely,7-Dec-02,2002,12,PU_MAN,Purchasing Manager,11000,30,Purchasing,United States of America,Seattle,Male
+115,Alexander Khoo,18-May-03,2003,5,PU_CLERK,Purchasing Clerk,3100,30,Purchasing,United States of America,Seattle,Male
+116,Shelli Baida,24-Dec-05,2005,12,PU_CLERK,Purchasing Clerk,2900,30,Purchasing,United States of America,Seattle,Male
+117,Sigal Tobias,24-Jul-05,2005,7,PU_CLERK,Purchasing Clerk,2800,30,Purchasing,United States of America,Seattle,Female
+118,Guy Himuro,15-Nov-06,2006,11,PU_CLERK,Purchasing Clerk,2600,30,Purchasing,United States of America,Seattle,Female
+119,Karen Colmenares,10-Aug-07,2007,8,PU_CLERK,Purchasing Clerk,2500,30,Purchasing,United States of America,Seattle,Male
+120,Matthew Weiss,18-Jul-04,2004,7,ST_MAN,Stock Manager,8000,50,Shipping,United States of America,South San Francisco,Female
+121,Adam Fripp,10-Apr-05,2005,4,ST_MAN,Stock Manager,8200,50,Shipping,United States of America,South San Francisco,Female
+122,Payam Kaufling,1-May-03,2003,5,ST_MAN,Stock Manager,7900,50,Shipping,United States of America,South San Francisco,Female
+123,Shanta Vollman,10-Oct-05,2005,10,ST_MAN,Stock Manager,6500,50,Shipping,United States of America,South San Francisco,Male
+124,Kevin Mourgos,16-Nov-07,2007,11,ST_MAN,Stock Manager,5800,50,Shipping,United States of America,South San Francisco,Female
+125,Julia Nayer,16-Jul-05,2005,7,ST_CLERK,Stock Clerk,3200,50,Shipping,United States of America,South San Francisco,Female
+126,Irene Mikkilineni,28-Sep-06,2006,9,ST_CLERK,Stock Clerk,2700,50,Shipping,United States of America,South San Francisco,Female
+127,James Landry,14-Jan-07,2007,1,ST_CLERK,Stock Clerk,2400,50,Shipping,United States of America,South San Francisco,Male
+128,Steven Markle,8-Mar-08,2008,3,ST_CLERK,Stock Clerk,2200,50,Shipping,United States of America,South San Francisco,Female
+129,Laura Bissot,20-Aug-05,2005,8,ST_CLERK,Stock Clerk,3300,50,Shipping,United States of America,South San Francisco,Male
+130,Mozhe Atkinson,30-Oct-05,2005,10,ST_CLERK,Stock Clerk,2800,50,Shipping,United States of America,South San Francisco,Male
+131,James Marlow,16-Feb-05,2005,2,ST_CLERK,Stock Clerk,2500,50,Shipping,United States of America,South San Francisco,Male
+132,TJ Olson,10-Apr-07,2007,4,ST_CLERK,Stock Clerk,2100,50,Shipping,United States of America,South San Francisco,Male
+133,Jason Mallin,14-Jun-04,2004,6,ST_CLERK,Stock Clerk,3300,50,Shipping,United States of America,South San Francisco,Female
+134,Michael Rogers,26-Aug-06,2006,8,ST_CLERK,Stock Clerk,2900,50,Shipping,United States of America,South San Francisco,Male
+135,Ki Gee,12-Dec-07,2007,12,ST_CLERK,Stock Clerk,2400,50,Shipping,United States of America,South San Francisco,Female
+136,Hazel Philtanker,6-Feb-08,2008,2,ST_CLERK,Stock Clerk,2200,50,Shipping,United States of America,South San Francisco,Male
+137,Renske Ladwig,14-Jul-03,2003,7,ST_CLERK,Stock Clerk,3600,50,Shipping,United States of America,South San Francisco,Female
+138,Stephen Stiles,26-Oct-05,2005,10,ST_CLERK,Stock Clerk,3200,50,Shipping,United States of America,South San Francisco,Female
+139,John Seo,12-Feb-06,2006,2,ST_CLERK,Stock Clerk,2700,50,Shipping,United States of America,South San Francisco,Female
+140,Joshua Patel,6-Apr-06,2006,4,ST_CLERK,Stock Clerk,2500,50,Shipping,United States of America,South San Francisco,Male
+141,Trenna Rajs,17-Oct-03,2003,10,ST_CLERK,Stock Clerk,3500,50,Shipping,United States of America,South San Francisco,Male
+142,Curtis Davies,29-Jan-05,2005,1,ST_CLERK,Stock Clerk,3100,50,Shipping,United States of America,South San Francisco,Female
+143,Randall Matos,15-Mar-06,2006,3,ST_CLERK,Stock Clerk,2600,50,Shipping,United States of America,South San Francisco,Male
+144,Peter Vargas,9-Jul-06,2006,7,ST_CLERK,Stock Clerk,2500,50,Shipping,United States of America,South San Francisco,Female
+180,Winston Taylor,24-Jan-06,2006,1,SH_CLERK,Shipping Clerk,3200,50,Shipping,United States of America,South San Francisco,Male
+181,Jean Fleaur,23-Feb-06,2006,2,SH_CLERK,Shipping Clerk,3100,50,Shipping,United States of America,South San Francisco,Female
+182,Martha Sullivan,21-Jun-07,2007,6,SH_CLERK,Shipping Clerk,2500,50,Shipping,United States of America,South San Francisco,Male
+183,Girard Geoni,3-Feb-08,2008,2,SH_CLERK,Shipping Clerk,2800,50,Shipping,United States of America,South San Francisco,Male
+184,Nandita Sarchand,27-Jan-04,2004,1,SH_CLERK,Shipping Clerk,4200,50,Shipping,United States of America,South San Francisco,Female
+185,Alexis Bull,20-Feb-05,2005,2,SH_CLERK,Shipping Clerk,4100,50,Shipping,United States of America,South San Francisco,Female
+186,Julia Dellinger,24-Jun-06,2006,6,SH_CLERK,Shipping Clerk,3400,50,Shipping,United States of America,South San Francisco,Female
+187,Anthony Cabrio,7-Feb-07,2007,2,SH_CLERK,Shipping Clerk,3000,50,Shipping,United States of America,South San Francisco,Female
+188,Kelly Chung,14-Jun-05,2005,6,SH_CLERK,Shipping Clerk,3800,50,Shipping,United States of America,South San Francisco,Female
+189,Jennifer Dilly,13-Aug-05,2005,8,SH_CLERK,Shipping Clerk,3600,50,Shipping,United States of America,South San Francisco,Male
+190,Timothy Gates,11-Jul-06,2006,7,SH_CLERK,Shipping Clerk,2900,50,Shipping,United States of America,South San Francisco,Male
+191,Randall Perkins,19-Dec-07,2007,12,SH_CLERK,Shipping Clerk,2500,50,Shipping,United States of America,South San Francisco,Male
+192,Sarah Bell,4-Feb-04,2004,2,SH_CLERK,Shipping Clerk,4000,50,Shipping,United States of America,South San Francisco,Female
+193,Britney Everett,3-Mar-05,2005,3,SH_CLERK,Shipping Clerk,3900,50,Shipping,United States of America,South San Francisco,Female
+194,Samuel McCain,1-Jul-06,2006,7,SH_CLERK,Shipping Clerk,3200,50,Shipping,United States of America,South San Francisco,Male
+195,Vance Jones,17-Mar-07,2007,3,SH_CLERK,Shipping Clerk,2800,50,Shipping,United States of America,South San Francisco,Male
+196,Alana Walsh,24-Apr-06,2006,4,SH_CLERK,Shipping Clerk,3100,50,Shipping,United States of America,South San Francisco,Female
+197,Kevin Feeney,23-May-06,2006,5,SH_CLERK,Shipping Clerk,3000,50,Shipping,United States of America,South San Francisco,Male
+198,Donald OConnell,21-Jun-07,2007,6,SH_CLERK,Shipping Clerk,2600,50,Shipping,United States of America,South San Francisco,Male
+199,Douglas Grant,13-Jan-08,2008,1,SH_CLERK,Shipping Clerk,2600,50,Shipping,United States of America,South San Francisco,Male
+103,Alexander Hunold,3-Jan-06,2006,1,IT_PROG,Programmer,9000,60,IT,United States of America,Southlake,Female
+104,Bruce Ernst,21-May-07,2007,5,IT_PROG,Programmer,6000,60,IT,United States of America,Southlake,Male
+105,David Austin,25-Jun-05,2005,6,IT_PROG,Programmer,4800,60,IT,United States of America,Southlake,Female
+106,Valli Pataballa,5-Feb-06,2006,2,IT_PROG,Programmer,4800,60,IT,United States of America,Southlake,Female
+107,Diana Lorentz,7-Feb-07,2007,2,IT_PROG,Programmer,4200,60,IT,United States of America,Southlake,Female
+201,Michael Hartstein,17-Feb-04,2004,2,MK_MAN,Marketing Manager,13000,20,Marketing,Canada,Toronto,Male
+202,Pat Fay,17-Aug-05,2005,8,MK_REP,Marketing Representative,6000,20,Marketing,Canada,Toronto,Female
+203,Susan Mavris,7-Jun-02,2002,6,HR_REP,Human Resources Representative,6500,40,Human Resources,United Kingdom,London,Male
+204,Hermann Baer,7-Jun-02,2002,6,PR_REP,Public Relations Representative,10000,70,Public Relations,Germany,Munich,Male
